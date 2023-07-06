@@ -1,0 +1,4 @@
+(executable
+ (public_name fun_king_functors)
+ (name main)
+ (libraries fun_king_functors base stdio))
